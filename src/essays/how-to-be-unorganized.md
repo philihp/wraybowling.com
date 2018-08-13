@@ -15,5 +15,3 @@ The trouble with any organization system is that it tends to fail when viewed th
 ## Graphs, Not Taxonomies
 
 ## Metadata, Not Folders
-
-## 

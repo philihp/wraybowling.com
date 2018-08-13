@@ -4,4 +4,4 @@ My name is Wray. The W is silent. I've been doing web development for <since tim
 
 ## Essays
 My first essay is
-[How to Be Unorganized](/essays/How to Be Unorganized.md)
+[How to Be Unorganized](essays/how-to-be-unorganized.md)
